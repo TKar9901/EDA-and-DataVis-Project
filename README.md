@@ -12,8 +12,8 @@
 - exploratory data analysis & visualisation via pandas and matplotlib
 
 - ML classification algorithms
- - perceptron
- - logistic regression
+  - perceptron
+  - logistic regression
 
 - correlation methods
  - linear regression
